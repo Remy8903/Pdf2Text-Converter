@@ -7,13 +7,6 @@ Welcome to the File Type Converter, a web application that facilitates two types
 - [Installation](#installation)
 - [Usage](#usage)
 
-## Team
-Meet the dedicated team behind the File Type Converter:
-
-- DANISH RAIMI BIN FAZRUL EDLIN (164108) - Team Leader
-- MUHAMMAD IRFAN MUHAIMIN BIN NIZAMULLAH (163316)
-- RADEN MUHAMMAD FATIH BIN MUSTATIR (163321)
-- MUHAMMAD FIRDAUS BIN MOHD ROSALAN (163743)
 
 ## Installation
 
