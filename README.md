@@ -1,4 +1,4 @@
-# File Type Converter Group 35 [pdf][txt]
+# File Type Converter  [pdf][txt]
 
 Welcome to the File Type Converter, a web application that facilitates two types of document conversions: Pdf to Text and Text to Pdf. We leverage the power of the pdfbox2.0 and pdfbox 3.0 libraries to seamlessly handle these conversions. This web application is built using PHP, which invokes two distinct JAR files, each dedicated to a specific type of conversion. Additionally, Apache2 serves as the underlying web server.
 
