@@ -1,0 +1,471 @@
+SCHOOL OF COMPUTER SCIENCES
+SEMESTER I 2024/2025
+CMT323/CMM322
+INFORMATION SYSTEMS THEORY &MANAGEMENT
+ASSIGNMENT 1:
+ANALYZING INFORMATION SYSTEMS FOR STRATEGIC AND OPERATIONAL
+ADVANTAGE
+PREPARED FOR:
+Roshanizah Harun (RH)
+PREPARED BY:
+GROUP 19
+NAME MATRIC COURSE
+DANISH RAIMI BIN FAZRUL EDLIN 164108 CMT323
+IMRAN DHUHA BIN MOHD FADHIL 164356 CMM322
+MUHAMMAD IRFAN MUHAIMIN BIN NIZAMULLAH 163316 CMT323
+ERMIEDA SYAMIMI BINTI MOHD HILMI 162224 CMM322
+DECLARATION
+"I confirm this group assignment is my work and is not copied from any other person's work
+(published or unpublished)".
+NAME MATRIC SIGNATURE
+DANISH RAIMI BIN FAZRUL EDLIN 164108
+IMRAN DHUHA BIN MOHD FADHIL 164356
+MUHAMMAD IRFAN MUHAIMIN BIN
+NIZAMULLAH
+163316
+ERMIEDA SYAMIMI BINTI MOHD HILMI 162224
+TABLE OF CONTENTS
+1.0 Business Scenario Analysis.................................................................................................1
+1.1 Current Business Operations.............................................................................................1
+1.2 Challenges.........................................................................................................................2
+1.2.1 Ineffective Inventory Management............................................................................2
+1.2.2 Cybersecurity Risks and Data Protection................................................................. 2
+1.2.3 Communication and Coordination Gaps...................................................................2
+1.3.1 Implementing Advanced Inventory Management Systems.......................................3
+1.3.2 Adopting an Integrated Supply Chain Management Platform...................................3
+1.3.3 Centralizing Customer Feedback and Introducing a Loyalty Program......................3
+2.0 Types of Information Systems and Their Role....................................................................4
+2.1 Enterprise Resource Planning (ERP).......................................................................... 4
+2.2 Customer Relationship Management (CRM)...............................................................4
+2.3 Supply Chain Management (SCM).............................................................................. 5
+2.4 E-Collaboration............................................................................................................ 5
+3.0 Supporting Operational and Strategic Activities................................................................6
+3.1 Enterprise Resource Planning (ERP) Technology....................................................... 6
+3.2 Customer Relationship Management (CRM)...............................................................6
+3.3 Supply Chain Management (SCM).............................................................................. 7
+3.4 E-Collaboration............................................................................................................ 7
+4.0 Comparison with Competitors............................................................................................. 8
+5.0 Proposed Information System for EcoGrocer.................................................................... 9
+5.1 Recommended Strategy.................................................................................................... 9
+5.2 Implementation Timeline..................................................................................................10
+5.3 Potential Challenges and Mitigation Strategies............................................................... 11
+6.0 References........................................................................................................................... 12
+1.0 Business Scenario Analysis
+Eco Grocer is a health-oriented organic store based in Malaysia. Eco Grocer specializes in
+offering high-quality, organic, and healthy food products to its customers. With both an online
+presence through platforms like Shopee and Lazada and a physical store in D'Alamanda Pudu
+Impian, the company aims to make healthy living accessible and convenient.
+1.1 Current Business Operations
+Inventory Management
+EcoGrocer utilizes the ERP System - SAP to track stock and inventory levels efficiently.
+Inventory movements, lead times, and buffer stocks are monitored using a Just-In-Time (JIT)
+ordering method. Monthly and weekly sales analysis trackers are employed to ensure orders are
+placed promptly, reducing the risk of overstocking or stockouts. Purchase Orders (POs) are
+issued to vendors based on the ordering cycle, with ad hoc orders made for out-of-stock items.
+Customer Relationships
+Eco Grocer currently manages customer interactions using basic digital tools such as Facebook
+Messenger, Business WhatsApp, and email. The company maintains an active social media
+presence to promote products and respond to inquiries. Additionally, the company sends
+promotional newsletters via email to inform customers about new products, discounts, and
+events. Eco Grocer prioritises customer feedback to improve its offerings and services
+continually. Rather than relying solely on traditional methods like suggestion boxes or email,
+customers are invited to participate in quick surveys after their purchases through digital receipts
+with embedded survey links or QR codes displayed at checkout counters.
+Order & Supply Chain
+Eco Grocer employs a semi-automated approach to managing its supply chain. The company
+maintains a spreadsheet-based system to track inventory levels, sales patterns, and supplier lead
+times. Orders are placed manually, based on the discretion of store managers, who analyse sales
+trends and historical data. While this approach allows some flexibility, it relies heavily on human
+oversight and can result in delays or inaccuracies during peak demand periods.
+1
+Internal Collaboration
+Internal communication at Eco Grocer is segmented between management levels. The top
+management team utilizes advanced collaborative platforms such as Microsoft Teams for
+strategic discussions, project management, and document sharing. However, operational and
+frontline staff primarily rely on traditional tools like WhatsApp for daily coordination and task
+updates. While WhatsApp is accessible and easy to use, its lack of integration with other systems
+and limited functionalities for task tracking or collaboration can lead to inefficiencies.
+1.2 Challenges
+1.2.1 Ineffective Inventory Management
+EcoGrocer’s reliance on a spreadsheet-based inventory tracking system poses several challenges.
+The manual nature of the process increases the likelihood of errors in inventory counts and
+delays in updating stock levels. During peak shopping seasons or promotional events, the system
+struggles to keep up with real-time inventory changes, leading to stockouts of high-demand items
+or overstocking of slow-moving goods. Furthermore, the inability to integrate real-time sales
+data with inventory tracking hampers the company's ability to forecast demand accurately and
+optimize stock levels, especially for perishable products.
+1.2.2 Cybersecurity Risks and Data Protection
+EcoGrocer’s reliance on online platforms for sales and customer engagement exposes the
+business to potential cybersecurity threats. The company faces the challenge of ensuring
+customer data security, especially considering sensitive information such as personal details and
+payment data. Without comprehensive security measures in place, EcoGrocer risks data breaches
+that could harm its reputation, erode customer trust, and lead to financial losses, especially in the
+growing e-commerce space.
+1.2.3 Communication and Coordination Gaps
+The divide between top management using advanced platforms like Microsoft Teams and
+operational staff relying on WhatsApp creates gaps in collaboration and information flow.
+Operational staff may miss important updates or fail to align with organizational goals due to the
+2
+informal nature of their communication tools. This inconsistency hampers cross-departmental
+coordination, particularly during promotions, restocking campaigns, or issue resolution, reducing
+overall efficiency.
+1.3 Opportunities
+1.3.1 Implementing Advanced Inventory Management Systems
+Eco Grocer can adopt a robust inventory management system integrated with real-time tracking
+and demand forecasting. Systems such as Enterprise Resource Planning (ERP) software or
+specialised inventory platforms can provide automated low-stock alerts, real-time stock updates,
+and waste tracking for perishables. This shift would improve stock optimisation, reduce waste,
+and ensure product availability, even during peak demand periods.
+1.3.2 Adopting an Integrated Supply Chain Management Platform
+Introducing a Supply Chain Management (SCM) system would enable Eco Grocer to automate
+supplier orders and track deliveries in real-time. This system could include vendor performance
+analytics, automated restocking schedules, and demand-driven replenishment. By integrating this
+with the inventory management system, Eco Grocer could improve supply chain transparency,
+minimise delays, and better manage seasonal demand fluctuations.
+1.3.3 Centralizing Customer Feedback and Introducing a Loyalty Program
+Eco Grocer could implement a Customer Relationship Management (CRM) system to
+consolidate feedback from all channels into a single platform. This system would enable detailed
+trend analysis and faster response times to customer concerns. Additionally, launching a loyalty
+program with personalized offers based on purchase history and preferences could foster
+customer retention and encourage repeat purchases, strengthening long-term relationships.
+3
+2.0 Types of Information Systems and Their Role
+2.1 Enterprise Resource Planning (ERP)
+Enterprise Resource Planning (ERP) is a suite of integrated software modules. ERP collects data
+from many departments of firms and key business processes for internal business activities. ERP
+systems optimise operations, reduce errors and improve efficiency by centralizing data and
+automating tasks. For example, ERP can integrate the company operations like purchasing, sales,
+inventory management and finance. It’s able to generate purchase orders automatically, track real
+time inventory, manage sales orders and generate financial reports accurately. This integration
+enhances decision making, decreases traditional effort and improves visibility. Finally, ERP
+helps businesses to operate efficiently, reduce costs and achieve sustainable development.
+2.2 Customer Relationship Management (CRM)
+Customer Relationship Management (CRM) is a software solution that may capture and integrate
+customer data from all over the organization. It helps businesses to consolidate and analyze
+customer data and then share it to various systems and customer touch points across enterprises
+through phone, email and customer service desk. Every single enterprise view of customers helps
+businesses improve sales and services. For Eco Grocer, CRM helps to centralize customer
+information, improve customer service, integrate loyalty programs, enhance customer
+segmentation and monitor customer interaction. Eco Grocer can build a strong customer
+relationship, customize offerings more precisely to their preferences and retain profitable
+customers by implementing CRM for their business.
+4
+2.3 Supply Chain Management (SCM)
+Supply Chain Management (SCM) is a network of organizations and processes for procuring
+materials, transforming them into products and distributing the product. SCM links suppliers,
+manufacturing plants, distribution centres, retail outlets and customers to the business. In other
+words, SCM is a powerful tool that can optimize inventory management, improve supplier
+relationships and reduce supply chain disruptions. SCM provides real-time updates on supply
+chain operations by integrating functions like procurement, logistics and inventory management.
+Business owners are able to forecast demand for the product accurately, optimize inventory
+levels and reduce overproducing and underproducing. Other than that, SCM provides
+communication and collaboration with suppliers effectively. It enables the streamlining of the
+order process, sharing demand forecasts and providing transparency in the production schedule
+at the same time improving supplier relationships. In addition, SCM enables problem solving
+capability in real-time by identifying potential issues earlier and finding solutions to overcome
+the issue in advance. SCM provides actionable insight to prevent any disruption by tracking
+external factors like market trends, geopolitical events and natural disasters.
+2.4 E-Collaboration
+Microsoft Teams and Slack are examples of E-Collaboration that have improved the way
+businesses communicate and collaborate. Team members are able to share information, discuss
+ideas and work together even at different physical locations by using these centralized hub
+platforms. These tools can improve internal communication and collaboration significantly
+because it facilitates real time communication, document sharing and project management.
+Teams are able to access the latest data and insights quickly since these tools enable rapid
+information sharing. So, the business is able to facilitate timely decision making, reduce response
+time and improve overall operational efficiency. Furthermore, these tools help in a teamwork
+environment like idea sharing, solutions finding and handling tasks together to achieve business
+goals. In summary, E-Collaboration leads to innovative solutions and improves business
+outcomes.
+5
+3.0 Supporting Operational and Strategic Activities
+3.1 Enterprise Resource Planning (ERP) Technology
+The implementation of the SAP ERP system is important to ensure Eco Grocer’s operational
+efficiency and strategic growth. For example, it operationalises inventory tracking, procurement,
+and order management, thus reducing any possible errors from manual processes. Just-in-time
+ordering helps keep inventory levels at an optimal stock, very important for perishable goods to
+prevent waste. Sales analysis allows aligning inventory with customer demand to lower
+operational costs.
+Strategically, the system supports data-driven decision-making. By analysing the trend of
+inventory, sales, and supplier performance, management gains insights to forecast demand,
+optimize stock levels, and negotiate with vendors. The ERP provides a holistic view of the
+business that helps Eco Grocer adapt to changes in the market and consumer behaviour. Its
+scalability positions the company for future growth, whether through new product lines, market
+expansion, or adopting new technologies. Overall, the ERP system is critically vital for Eco
+Grocer's continued survival in the competitive health and organic food market.
+3.2 Customer Relationship Management (CRM)
+CRM consolidates customer information from social media, email, and in-store feedback into
+one platform to ease customer service and allow for quicker responses to inquiries. It automates
+tasks such as sending promotional newsletters and post-purchase surveys, freeing up staff for
+more productive activities. CRM also helps Eco Grocer analyze purchase histories and
+preferences for personalized marketing that will help improve customer engagement and
+satisfaction.
+It enables strategic data-driven decisions for customer loyalty and growth by revealing insight
+into product popularity and market opportunities. It also facilitates loyalty programs, helps track
+feedback in real-time, and thus assists Eco Grocer in finding the gaps in its services to work
+toward improvement in healthy food offerings. Overall, CRM is vital for continued growth and
+competitive advantage for Eco Grocer.
+6
+3.3 Supply Chain Management (SCM)
+Integration of the Supply Chain Management system at Eco Grocer also enhances its operational
+efficiency and strategic decision-making. It automates order processing, stock reordering, and
+delivery tracking, hence reducing errors and improving fulfilment. In addition, real-time tracking
+enables better transparency and vendor performance analysis ensures reliable suppliers, which
+helps reduce costs and ensure product availability.
+From a strategic standpoint, SCM allows for correct demand forecasting. This helps in inventory
+management to avoid bottlenecks and waste. Additionally, the integration of ERP and CRM
+systems allows for better operational coordination. The overall system of SCM would, therefore,
+support growth by increasing flexibility, mitigating risks, and opening the door to new markets
+for Eco Grocer.
+3.4 E-Collaboration
+E-collaboration tools are highly instrumental in both operational and strategic functions at Eco
+Grocer, making the environment of the organization much more cohesive and effective.
+Operationally, these tools, such as Microsoft Teams, enhance day-to-day communication and
+task management, reducing dependence on slower modes of communication, including email.
+This single workspace increases transparency in task assignments, thereby helping management
+and staff stay coordinated to minimise miscommunication and delays in operations related to
+restocking and customer service.
+Strategically, e-collaboration tools ease better decision-making and innovations since
+departments share knowledge effectively. This may be assisted by integrated management of
+data-driven discussions for long-term planning with the help of real-time analytics on integrated
+dashboards. E-collaboration encourages a more inclusive approach by taking input from all ranks
+regarding formulating strategy.
+7
+Additionally, e-collaboration tools smooth onboarding and training as Eco Grocer scales. They
+can ensure the business remains agile in the instance of market changes or disruptions along
+supply chains through rapid communication. Finally, they enhance productivity to support the
+company in its continuing ability to stay competitive within the health and organic food market.
+4.0 Comparison with Competitors
+In this comparison, we will compare the Information System Capabilities and also identify the gaps
+between Eco Grocer and Lotus Malaysia. Similar to Eco Grocer, Lotus also has a wide range of outlets,
+with 67 stores across Malaysia. The company also offers high-quality products, such as fresh produce,
+groceries, electronics, clothing and also household essentials. The company emphasises customer
+satisfaction and sustainability, adopting initiatives such as eco-friendly packaging and energy-efficient
+store designs.
+Category EcoGrocer Lotus Malaysia Gap Identified
+Inventory
+Management
+● Using SAP ERP with
+JIT system
+(Just-in-time).
+● Have a Monthly and
+Weekly sales analysis
+trackers
+● Ad hoc manual
+ordering for stockouts
+● Advanced real-time
+inventory systems.
+● Machine learning for
+demand forecasting.
+● Automated replenishment
+minimizes manual
+intervention.
+EcoGrocer rely on manual
+periodic analysis while Lotus
+Malaysia using a real-time
+tracking and predictive
+analytics
+Customer
+Relationship
+● Using basic tools
+such as Facebook
+Messenger,
+Whatsapp, Email
+● Social Media for
+promotion purposes
+● Customer feedback
+via QR codes and
+surveys in digital
+receipts
+● Have an advanced CRM
+system such as Salesforce
+● Omni-channel marketing
+(personalized app
+notifications, loyalty
+schemes).
+● AI-driven customer
+behaviour analysis for
+tailored promotions.
+EcoGrocer only has
+simplistic interaction tools
+and a lack of personalization
+compared to Lotus’s
+advanced CRM and AI-based
+customer insights.
+Order and
+Supply
+Chain
+● Semi-automated
+system with
+spreadsheets.
+● Store managers
+analyze sales trends
+and historical data
+manually.
+● Fully automated supply
+chain systems.
+● Integration with
+inventory and sales data.
+● AI-driven real-time order
+placement and supplier
+coordination.
+In EcoGrocer they are prone
+to human error and delays in
+manual processes,
+particularly during peak
+demand or stocking day.
+Compared to Lotus they are
+seamless automation.
+8
+Internal
+Collaboratio
+n
+● Microsoft Teams for
+top management.
+● WhatsApp for
+frontline staff.
+● Limited integration
+between platforms.
+● Enterprise-level tools like
+Microsoft 365 and
+custom platforms.
+● Real-time dashboards for
+task allocation.
+● Integration with
+operational systems for
+streamlined workflows.
+In EcoGrocer there are
+inefficiencies in coordination
+due to reliance on WhatsApp
+and lack of integration
+compared to Lotus Unified
+tools.
+5.0 Proposed Information System for EcoGrocer
+5.1 Recommended Strategy
+In this part, we will recommend an upgrade to the Information System that is in EcoGrocer to make sure
+EcoGrocer will be performed more efficiently. An optimized information system is a very critical
+component in order to ensure the seamless function of a modern retail environment. By leveraging
+advanced technological solutions, EcoGrocer can improve its supply chain management, customer
+relationship management, and overall business operation.
+Component Proposed Strategy Expected Impact
+ERP (Enterprise
+Resource Planning )
+Upgrade to a cloud-based ERP system for
+example SAP S/4HANA or Oracle NetSuite
+for real-time inventory tracking, financial
+management, and data analytics.
+● Reduces manual human errors
+and delays
+● Provides real-time visibility
+into operations
+CRM (Customer
+Relationship
+Management)
+Implement a modern CRM platform
+Salesforce or HubSpot to manage customer
+relationships, enable personalized marketing,
+and introduce loyalty programs.
+● Enhances customer
+engagement between retail
+and customer
+● This system will enable
+data-driven marketing and
+feedback analysis
+SCM (Supply Chain
+Management)
+Introduce a fully integrated SCM system with
+AI-driven demand forecasting and automated
+supplier coordination.
+● Streamlines or unified order
+placement and supplier
+● This upgrade will reduce the
+risk of stockouts or
+overstocking
+E-collaboration Transition to an enterprise-wide collaboration
+platform like Microsoft 365 or Slack with
+integrated task management, file sharing, and
+real-time communication for all staff levels.
+● Improves internal
+communication and task
+coordination
+● Enhances more productivity
+for staff or worker and their
+operational transparency
+9
+5.2 Implementation Timeline
+Phase Duration Activities
+Phase 1:Planning 1 month In this first phase 1 which is the Planning phase we can
+form a cross-functional IS implementation team to
+discuss the implementation strategy, This Team will
+define system requirements and select vendors for
+upgrade purposes. this phase also will conduct an
+employee readiness assessment
+Phase 2:ERP implementation 3 month This second phase will slowly migrate to a cloud-based
+ERP system. This phase is also crucial to train staff on
+new ERP functionalities. This also will ensure integration
+with existing systems.
+Phase 3:CRM deployment 2 month This phase will set up a CRM for customer data
+management and marketing. we also need to train
+marketing and customer support teams to study and know
+how to use the system
+Phase 4:SCM integration 3 month Install and integrate SCM system with ERP and automate
+supplier communication and demand forecasting
+Phase 5:E-collaboration 2 month In this phase, we will deploy collaboration tools and train
+staff at all levels. Integrate tools with existing workflows
+Phase 6:Testing and
+Optimization
+1 month In this final phase, we will conduct end-to-end testing of
+all systems. This phase is also crucial to resolve issues
+and optimize workflows. Finally, we can launch full
+operation
+10
+5.3 Potential Challenges and Mitigation Strategies
+Challenge Mitigation Strategy
+Resistance to change from employees The strategy for this challenge is to provide a
+comprehensive training session to the employee or
+staff and also involve them in the process so they
+will be familiar with the changes.
+Integration with existing systems ● Thorough compatibility testing during the
+planning phase needs to be conducted.
+● Work with experienced vendors so that the
+process of integration will be seamless
+Budget Constraint ● Main prioritisation only the critical system
+component in the initial phases
+● Seeking cost-effective vendor solutions or
+payment plans is required
+Data migration and system downtime ● Plan data migration during off-peak hours
+for example at midnight
+● Use backup systems to avoid operational
+disruptions
+Scalability and future adaptability of systems ● Choose cloud-based solutions with scalable
+infrastructure
+● Regularly update systems to meet future
+demands.
+11
+6.0 References
+Albream, F., & Maraqa, M. (2019). The impact of adopting e-collaboration tools on knowledge
+management processes. Management Science Letters, 1009–1028.
+https://doi.org/10.5267/j.msl.2019.4.004
+CRM 101: What is CRM? | Technology | Deloitte Digital + Salesforce. (2020, March 11).
+Deloitte.
+https://www.deloitte.com/mt/en/Industries/technology/perspectives/mt-salesforce-crm-10
+1.html
+Hardy, Q. (2014, May 14). NetSuite: Enterprise software still follows a manufacturing model.
+Bits Blog.
+https://archive.nytimes.com/bits.blogs.nytimes.com/2014/05/13/netsuite-enterprise-softw
+are-still-follows-a-manufacturing-model/
+Laudon, K. C., & Laudon, J. P. (2019). Management Information Systems: Managing the Digital
+Firm, Global Edition. Pearson UK.
+Lukić, R. (2022). Evaluation of Transport and Storage Performance in the European Union. Ekonomski
+Pogledi, 24(2), 1–44. https://doi.org/10.5937/ep24-40722
+Truong, H. Q., Sameiro, M., Fernandes, A. C., Sampaio, P., Duong, B. a. T., Duong, H. H., &
+Vilhenac, E. (2017). Supply chain management practices and firms’ operational
+performance. International Journal of Quality & Reliability Management, 34(2),
+176–193. https://doi.org/10.1108/ijqrm-05-2015-0072
+Whitaker, L. (2024, May 7). NetSuite Awarded Frost & Sullivan’s 2024 Global Company of the
+Year Award for Leading Innovation in Cloud Business Management Solutions. Frost &
+Sullivan.
+https://www.frost.com/news/press-releases/netsuite-awarded-frost-sullivans-2024-global-
+company-of-the-year-award-for-leading-innovation-in-cloud-business-management-soluti
+ons/
+12

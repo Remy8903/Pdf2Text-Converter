@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Text2Pdf2.0-final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Text2Pdf2_0_final_jar</output-path>
+    <root id="archive" name="Text2Pdf2.0-final.jar">
+      <element id="module-output" name="Text2Pdf2.0-final" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../pdfbox-library/pdfbox-app-2.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

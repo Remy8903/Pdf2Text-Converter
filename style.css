@@ -1,0 +1,136 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/ed/bd/6d/edbd6d6718276705bcc9eec0f6b2e31f.jpg);
+  background-size: cover; /* This ensures that the image covers the entire body */
+  background-position: center; /* This centers the image */
+  background-repeat: no-repeat; /* This prevents the image from repeating */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  font-family: "Abril Fatface", serif;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Nunito", sans-serif;
+  /* background-color: #323437; */
+  color: rgb(0, 0, 0);
+  color: azure;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10.5px);
+  -webkit-backdrop-filter: blur(10.5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+  font-family: "Roboto Mono", "Roboto Mono", "Vazirmatn", monospace;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-bottom: 20px;
+  background-color: #dedede;
+  color: #000000;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #e2b714;
+  color: #000000;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#chooseFile {
+  margin-top: 10px;
+}
+
+select {
+  font-family: "Roboto Mono", "Roboto Mono", "Vazirmatn", monospace;
+  padding: 10px 20px;
+  background-color: #e2b714;
+  color: #000000;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.HowTo {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.09);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.43);
+}
+
+.Download {
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center text within the container */
+}
+
+p {
+  margin-bottom: 10px;
+  font-family: "Roboto Mono", "Roboto Mono", "Vazirmatn", monospace;
+}
+
+a {
+  font-family: "Roboto Mono", "Roboto Mono", "Vazirmatn", monospace;
+  display: inline-block; /* Make the link a block element to center it */
+  padding: 10px 20px;
+  background-color: #e2b714;
+  color: #000000;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none; /* Remove default underline */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+#chooseFile {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+#File {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 12px;
+  width: 200px; /* Adjust the width as needed */
+}
+
+#File:hover,
+#File:focus {
+  border-color: #555;
+}
